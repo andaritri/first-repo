@@ -1,1 +1,3 @@
-This file was created in remote repository.
+This line was replace in feature-2 branch locally.
+
+This line was added in the feature-2 branch locally.
