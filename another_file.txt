@@ -1,1 +1,3 @@
-Another file with some text inside. this was added from the master branch.
+Another file with some text inside. This was change in the master branch.
+
+Another line added from remote master branch.
